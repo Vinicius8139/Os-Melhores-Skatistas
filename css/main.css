@@ -1,0 +1,439 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(101,143,251,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_24 {
+  width: 280px;
+  height: 197px;
+  background: rgba(76,101,241,1);
+  opacity: 1;
+  position: absolute;
+  top: 534px;
+  left: 49px;
+  border-top-left-radius: 52px;
+  border-top-right-radius: 52px;
+  border-bottom-left-radius: 52px;
+  border-bottom-right-radius: 52px;
+  overflow: hidden;
+}
+.v1_30 {
+  width: 278px;
+  height: 196px;
+  background: rgba(76,101,241,1);
+  opacity: 1;
+  position: absolute;
+  top: 275px;
+  left: 46px;
+  border-top-left-radius: 55px;
+  border-top-right-radius: 55px;
+  border-bottom-left-radius: 55px;
+  border-bottom-right-radius: 55px;
+  overflow: hidden;
+}
+.v1_32 {
+  width: 287px;
+  height: 202px;
+  background: rgba(76,101,241,1);
+  opacity: 1;
+  position: absolute;
+  top: 803px;
+  left: 46px;
+  border-top-left-radius: 41px;
+  border-top-right-radius: 41px;
+  border-bottom-left-radius: 41px;
+  border-bottom-right-radius: 41px;
+  overflow: hidden;
+}
+.v1_11 {
+  width: 254px;
+  height: 178px;
+  background: url("../images/v1_11.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 544px;
+  left: 62px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  overflow: hidden;
+}
+.v1_14 {
+  width: 266px;
+  height: 178px;
+  background: url("../images/v1_14.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 291px;
+  left: 60px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  overflow: hidden;
+}
+.v1_28 {
+  width: 264px;
+  height: 185px;
+  background: url("../images/v1_28.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 812px;
+  left: 57px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v14_4 {
+  width: 659px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 353px;
+  left: 361px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+.v20_6 {
+  width: 325px;
+  height: 339px;
+  background: url("../images/v20_6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 311px;
+  transform: rotate(-14deg);
+  overflow: hidden;
+}
+.v1_6 {
+  width: 318px;
+  height: 166px;
+  background: url("../images/v1_6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 47px;
+  left: 342px;
+  transform: rotate(-12deg);
+  overflow: hidden;
+}
+.v20_28 {
+  width: 257px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 947px;
+  left: 717px;
+  font-family: Jockey One;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v20_27 {
+  width: 224px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 904px;
+  left: 718px;
+  font-family: Jockey One;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v20_25 {
+  width: 362px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 814px;
+  left: 717px;
+  font-family: Jockey One;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v20_24 {
+  width: 158px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 947px;
+  left: 361px;
+  font-family: Jockey One;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v20_23 {
+  width: 153px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 902px;
+  left: 361px;
+  font-family: Jockey One;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v20_22 {
+  width: 131px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 858px;
+  left: 361px;
+  font-family: Jockey One;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v20_20 {
+  width: 341px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 813px;
+  left: 361px;
+  font-family: Jockey One;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v20_26 {
+  width: 145px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 858px;
+  left: 713px;
+  font-family: Jockey One;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v25_39 {
+  width: 872px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 556px;
+  left: 361px;
+  font-family: Jockey One;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+
+
+
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_26 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(101,143,251,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_41 {
+  width: 622px;
+  color: rgba(65,77,183,1);
+  position: absolute;
+  top: 39px;
+  left: 662px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_43 {
+  width: 92px;
+  background: url("../images/v1_43.png");
+  opacity: 1;
+  position: absolute;
+  top: 386px;
+  left: 73px;
+  border: 10px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.v1_46 {
+  width: 92px;
+  background: url("../images/v1_46.png");
+  opacity: 1;
+  position: absolute;
+  top: 724px;
+  left: 73px;
+  border: 10px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.v1_47 {
+  width: 92px;
+  background: url("../images/v1_47.png");
+  opacity: 1;
+  position: absolute;
+  top: 836px;
+  left: 73px;
+  border: 10px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.v1_44 {
+  width: 92px;
+  background: url("../images/v1_44.png");
+  opacity: 1;
+  position: absolute;
+  top: 498px;
+  left: 73px;
+  border: 10px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.v1_45 {
+  width: 92px;
+  background: url("../images/v1_45.png");
+  opacity: 1;
+  position: absolute;
+  top: 611px;
+  left: 73px;
+  border: 10px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.v1_48 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 338px;
+  left: 244px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_49 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 451px;
+  left: 244px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_50 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 563px;
+  left: 244px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_51 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 677px;
+  left: 244px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_52 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 790px;
+  left: 244px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v14_2 {
+  width: 200px;
+  height: 200px;
+  background: url("../images/v14_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 791px;
+  left: 1184px;
+  overflow: hidden;
+}
+.v20_11 {
+  width: 325px;
+  height: 339px;
+  background: url("../images/v20_11.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 311px;
+  transform: rotate(-14deg);
+  overflow: hidden;
+}
+.v20_12 {
+  width: 318px;
+  height: 166px;
+  background: url("../images/v20_12.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 47px;
+  left: 342px;
+  transform: rotate(-12deg);
+  overflow: hidden;
+}
